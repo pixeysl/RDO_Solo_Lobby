@@ -59,7 +59,7 @@ You can create Shortcut to the batch script to activate with a single click. See
 
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4RDACJrscXA/0.jpg)](https://www.youtube.com/watch?v=4RDACJrscXA)
+[![https://youtu.be/4RDACJrscXA](https://img.youtube.com/vi/4RDACJrscXA/0.jpg)](https://www.youtube.com/watch?v=4RDACJrscXA)
 
 
 ## Acknowledgements
