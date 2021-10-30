@@ -3,6 +3,10 @@
 
 Red Dead Online Solo Lobby batch script for windows platform.
 
+Firewall rule must be setup first. See Firewall Setup below.
+
+You can create Shortcut to the batch script to activate with a single click. See Shortcut Setup below.
+
 
 ## Usage
 
