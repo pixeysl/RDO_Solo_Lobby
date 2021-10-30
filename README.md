@@ -46,10 +46,11 @@ To enable solo lobby firewall rule:
 2- Go to the desktop shortcut created > Right click > Properties
 
 3- In the "Target" section, enter <your saved path>\rdo_solo_lobby\rdo_solo_lobby.bat -e
+   This will be for the enable script.
 
 4- In the "Start in" section, enter <your saved path>\rdo_solo_lobby
 
-5- Repeat Step 2 to 4, but omit "-e" in Step 3.
+5- Repeat Step 1 to 4 for the disable script, by omitting "-e" in Step 3.
    i.e. In the "Target" section, enter <your saved path>\rdo_solo_lobby\rdo_solo_lobby.bat
 ```
 
