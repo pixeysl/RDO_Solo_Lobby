@@ -41,16 +41,20 @@ To enable solo lobby firewall rule:
 ## Shortcut Setup
 
 ```bash
-1- Right click on "rdo_solo_lobby.bat" > Send to > Desktop (create shortcut)
+1- Right-click "rdo_solo_lobby.bat" > Send to > Desktop (create shortcut)
 
 2- Go to the desktop shortcut created > Right click > Properties
+   
 
 3- In the "Target" section, enter <your saved path>\rdo_solo_lobby\rdo_solo_lobby.bat -e
    This will be for the enable script.
 
 4- In the "Start in" section, enter <your saved path>\rdo_solo_lobby
 
-5- Repeat Step 1 to 4 for the disable script, by omitting "-e" in Step 3.
+5- Click the "Advanced" button below > check "Run as administrator"
+   This is needed for the netsh command.
+
+6- Repeat Step 1 to 5 for the disable script, by omitting "-e" in Step 3.
    i.e. In the "Target" section, enter <your saved path>\rdo_solo_lobby\rdo_solo_lobby.bat
 ```
 
